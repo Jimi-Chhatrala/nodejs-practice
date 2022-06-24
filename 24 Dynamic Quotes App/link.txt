@@ -1,0 +1,16 @@
+https://type.fit/api/quotes
+
+https://www.iconpacks.net/free-icon/twitter-logo-2429.html
+
+https://michalsnik.github.io/aos/
+
+<link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+
+
+<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+
+<script>
+  AOS.init();
+</script>
+
+data-aos="zoom-in"
